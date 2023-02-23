@@ -1,7 +1,7 @@
 # matplotlibrc
 my personal configuration file for matplotlib
 
-# How to use it
+# How to use it (Linux)
 
 Paste the `matplotlibrc` file in a folder of your preference. For example, I have it in
 ```bash
